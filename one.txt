@@ -1,1 +1,1 @@
-Welcome to Python on Google Cloud Run 🎉  This text is from a separate github repository and can be edited and changed without triggering a rebuild of the cloud run app. Yahoo!
+Welcome to Python on Google Cloud Run 🎉  This text is from a separate github repository and can be edited and changed without triggering a rebuild of the cloud run app. Use it like a simple CMS (content management system) Yahoo!
